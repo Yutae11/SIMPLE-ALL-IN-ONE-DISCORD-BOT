@@ -1,8 +1,8 @@
 {
-  "token": "MTIyMDA0MzAyNDU1NDUyNDY5Mg.Gl5We-.3EtaAQdxP-0yjKvoi5KI6gF50xwqURX0lCA-xg",
-  "prefix": ",",
+  "token": "",
+  "prefix": "~",
   "ownerIDS": [
-    "1173547185758015498"
+    "1219624638628233247"
   ],
   "mongo": "mongodb+srv://pee33:wnn99e@cluster0.fgivnid.mongodb.net/?retryWrites=true&w=majority",
   "everyoneMention": false,
